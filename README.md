@@ -8,5 +8,8 @@ a simple Web-App to send Pushsafer Push-Notifications by pressing a button
 # Setup
 open the js/config.js file and set up the app to your needs
 
+# Run
+open index.html in a browser of your choice
+
 # Screenshot
 ![Screenshot](https://raw.githubusercontent.com/appzer/pushsafer-buttons-webapp/main/images/screenshot.jpg)
